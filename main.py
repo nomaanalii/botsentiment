@@ -8,5 +8,6 @@ int = a ( input (enter the first number :))
 int = b ( input (enter the second number :))
 int sum = a +b 
 print ( sum )
-
+print ( "hellow i am now editing file from the server of git hub")
+print( " now you have to download the update and than again upload ")
 
